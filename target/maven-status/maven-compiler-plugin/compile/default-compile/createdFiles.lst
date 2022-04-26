@@ -1,3 +1,5 @@
+patterns/builder/EmployeeWithLombok.class
+patterns/builder/EmployeeWithLombok$EmployeeWithLombokBuilder.class
 patterns/builder/Employee.class
 patterns/builder/Employee$Builder.class
 patterns/builder/BuilderApp.class

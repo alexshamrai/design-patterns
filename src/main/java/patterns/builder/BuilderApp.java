@@ -18,7 +18,7 @@ public class BuilderApp {
 
         Employee john = new Employee.Builder("John",
                                              "Lennon",
-                                             1002                                             )
+                                             1002)
                 .yearOfBirth(1940)
                 .registrationAddress("Liverpool, UK")
                 .build();

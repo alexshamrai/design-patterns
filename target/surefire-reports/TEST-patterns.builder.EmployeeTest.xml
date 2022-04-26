@@ -44,7 +44,7 @@
     <property name="java.class.path" value="/Users/oshamrai/.sdkman/candidates/maven/current/boot/plexus-classworlds-2.6.0.jar"/>
     <property name="java.vm.specification.version" value="11"/>
     <property name="sun.arch.data.model" value="64"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher clean install -U"/>
     <property name="java.home" value="/Users/oshamrai/.sdkman/candidates/java/11.0.11.hs-adpt"/>
     <property name="user.language" value="en"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
@@ -61,5 +61,5 @@
     <property name="java.vendor.version" value="AdoptOpenJDK-11.0.11+9"/>
     <property name="sun.cpu.isalist" value=""/>
   </properties>
-  <testcase classname="patterns.builder.EmployeeTest" name="testBuild" time="0"/>
+  <testcase classname="patterns.builder.EmployeeTest" name="testBuildEmployee" time="0"/>
 </testsuite>
